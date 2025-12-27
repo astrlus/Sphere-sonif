@@ -25,3 +25,4 @@ Keep experimenting with the program! Variables and Parameters are flexible to ch
 Use the following website to find out the average colour of a slice (of image) along with their R,G and B propotion.
 . https://matkl.github.io/average-color/
 
+*Coming back to this years later, it's a PRETTY CRUDE CODE--nevertheless, it did achieve what I was trying to achieve at the time.
